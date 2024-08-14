@@ -30,3 +30,14 @@ header, nav, footer {
      font-size: 20px;
      margin-bottom: 20px;
 }
+.conteudo {
+     display: flex;
+     flex: 1;
+     gap: 20px;
+}
+.principal{
+     display: flex;
+     flex-direction: column;
+     flex: 2;
+     gap: 20px;
+}
